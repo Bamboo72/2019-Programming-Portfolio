@@ -7,4 +7,4 @@
  Object orientated calculator with features including...
  ![Test Image](https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/images/test.png?raw=true)
 
-Source code for calculator: https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/Calculator/README.md
+Source code for calculator: [here](https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/Calculator/README.md)
