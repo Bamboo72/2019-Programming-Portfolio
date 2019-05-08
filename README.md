@@ -4,7 +4,7 @@ Email: jaschwartz27@gmail.com
 Certifications: 
 * Utah State Certified in C++
 
-## Projects created in the Programming 1 class 2018 - 2019:
+## Spotlighted Projects created in the Programming 1 class 2018 - 2019:
 ------
  
  ## First Semester Processing Calculator
@@ -13,3 +13,8 @@ Certifications:
  ![Test Image](https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/images/test.png?raw=true)
 
 Source code for calculator: [here](https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/Calculator/README.md)
+
+ ## First Semester Space Shooter Game
+ ## First Semester Timeline
+ ## Second Semester Number Guessing Game
+ ## Second Semester Recorded Questions
