@@ -4,4 +4,5 @@
  
  ## First Semester Processing Calculator
  ##### Completed November 2018
- Object orientated calculator with features including
+ Object orientated calculator with features including...
+ ![Test Image](https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/images/test.png?raw=true)
