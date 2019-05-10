@@ -1,3 +1,7 @@
+<p align="center">
+  <img />
+</p>
+
 # Welcome to Jacob Schwartz's Programming Portfolio
 Email: jaschwartz27@gmail.com
 Certifications: 
