@@ -23,7 +23,8 @@ Source code for calculator: [here](https://github.com/Bamboo72/2019ProgrammingPo
 
 ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/SpaceGame.png)
 
-![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Asteroid%20Class%20Diagram.png) ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Asteroid%20Class%20Diagram.pdf)
+![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Asteroid%20Class%20Diagram.png)
+![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Asteroid%20Class%20Diagram.pdf)
 
 ## Second Semester Number Guessing Game
   ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/GuessingGame.png)
