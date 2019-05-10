@@ -1,0 +1,1 @@
+Checkers.o: ../Checkers.cpp
