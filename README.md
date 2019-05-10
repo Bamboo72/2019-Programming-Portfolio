@@ -24,4 +24,5 @@ Source code for calculator: [here](https://github.com/Bamboo72/2019ProgrammingPo
 ## Second Semester Number Guessing Game
   ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/GuessingGame.png)
  ## Second Semester Recorded Questions
+ ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Questions.png)
   ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/RecordedQuestions.png)
