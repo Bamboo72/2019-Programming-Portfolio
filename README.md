@@ -12,11 +12,15 @@ Certifications:
  ### Completed November 2018
  An Legend of Zelda themed object orientated calculator with features including standard opperations as well as squares, square roots, and a random number button (1-100). The button at the bottom links to GameChops' Zelda and Chill video.
  
+ ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/_Calculator%20Plan.png)
  ![Calculator Image](https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/images/Calculator.png)
 
 Source code for calculator: [here](https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/Calculator/README.md)
 
  ## First Semester Space Shooter Game
+ ### Completed December 2018
+  A spaceshooter game inspired by classics like Galaga and Asteroids. It isn't completely finished, but might be updated on a future date. This game had much planning beforehand.
+  
   ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Spaceship%20Game.png)
   
 ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/SpaceGameStart.png)
