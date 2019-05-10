@@ -31,7 +31,12 @@ Source code for calculator: [here](https://github.com/Bamboo72/2019ProgrammingPo
 ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Asteroid%20Class%20Diagram.pdf)
 
 ## Second Semester Number Guessing Game
+### Completed March 2019
+ Due to the limits C++ has with graphics, this is entirely text based. It's a simple but fun game where you try to guess a number in the least amount of guesses.
   ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/GuessingGame.png)
-  ## Second Semester Recorded Questions
+ 
+ ## Second Semester Recorded Questions
+ ### Completed April 2019
+ 
  ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Questions.png)
  ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/RecordedQuestions.png)
