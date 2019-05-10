@@ -1,7 +1,3 @@
-<p align="center">
-  <img />
-</p>
-
 # Welcome to Jacob Schwartz's Programming Portfolio
 Email: jaschwartz27@gmail.com
 Certifications: 
@@ -21,12 +17,18 @@ Source code for calculator: [here](https://github.com/Bamboo72/2019ProgrammingPo
 
  ## First Semester Space Shooter Game
   ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Spaceship%20Game.png)
+  
 ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/SpaceGameStart.png)
+
 ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/SpaceGame.png)
+
 ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Asteroid%20Class%20Diagram.png)
+
 ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Asteroid%20Class%20Diagram.pdf)
+
 ## Second Semester Number Guessing Game
   ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/GuessingGame.png)
   ## Second Semester Recorded Questions
  ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Questions.png)
+ 
   ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/RecordedQuestions.png)
