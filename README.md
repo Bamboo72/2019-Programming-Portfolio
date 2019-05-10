@@ -11,6 +11,7 @@ Certifications:
  ## First Semester Processing Calculator
  ### Completed November 2018
  An Legend of Zelda themed object orientated calculator with features including standard opperations as well as squares, square roots, and a random number button (1-100). The button at the bottom links to GameChops' Zelda and Chill video.
+ 
  ![Calculator Image](https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/images/Calculator.png)
 
 Source code for calculator: [here](https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/Calculator/README.md)
@@ -30,5 +31,4 @@ Source code for calculator: [here](https://github.com/Bamboo72/2019ProgrammingPo
   ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/GuessingGame.png)
   ## Second Semester Recorded Questions
  ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Questions.png)
- 
   ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/RecordedQuestions.png)
