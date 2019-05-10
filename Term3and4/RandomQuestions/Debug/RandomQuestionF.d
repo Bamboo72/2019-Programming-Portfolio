@@ -1,0 +1,1 @@
+RandomQuestionF.o: ../RandomQuestionF.cpp

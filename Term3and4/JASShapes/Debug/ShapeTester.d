@@ -1,0 +1,1 @@
+ShapeTester.o: ../ShapeTester.cpp
