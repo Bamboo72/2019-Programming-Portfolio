@@ -29,7 +29,6 @@ Source code for calculator: [here](https://github.com/Bamboo72/2019-Programming-
 ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/SpaceGame.png)
 
 ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Asteroid%20Class%20Diagram.png)
-![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Asteroid%20Class%20Diagram.pdf)
 
 ## Second Semester Number Guessing Game
 ### Completed March 2019
@@ -42,3 +41,6 @@ Source code for calculator: [here](https://github.com/Bamboo72/2019-Programming-
  ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Questions.png)
  ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/RecordedQuestions.png)
  
+ ## Second Semester Group Project: Bank System
+ ## Completed May 2019
+  This was a group project including all the students learning C++ in our Programming 1 class. Together we decided to create a banking system or automated teller. I was assigned the job of the bank system with deposits, withdrawls, recording the process, and keeping track of the balance of each user.
