@@ -2,6 +2,7 @@
 Email: jaschwartz27@gmail.com
 Certifications: 
 * Utah State Certified in C++
+* Utah State Certified in Java
 
 ## Spotlighted Projects created in the Programming 1 class 2018 - 2019:
 ------
