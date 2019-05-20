@@ -21,6 +21,8 @@ Certifications:
  
  ![Calculator Image](https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/images/Calculator.png) ![Calculator Planning](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/_Calculator%20Plan.png) 
  
+ ![Calculator Image](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Calculator.jpg)
+ 
 Source code for calculator [here](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term2/Calculator/Calculator)
 
  ## First Semester Space Shooter Game
