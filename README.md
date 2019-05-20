@@ -6,9 +6,8 @@ Certifications:
 * Utah State Certified in Java
 
 # Spotlighted Projects created in the Programming 1 class 2018 - 2019:
- 
- 
- ### First Semester Timeline
+  
+ # First Semester Timeline
  
  
  #### Completed October 2018
