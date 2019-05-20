@@ -10,7 +10,7 @@ Certifications:
  ## First Semester Timeline
  ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Timeline.png)
  
- Source code for timeline: [TimelineLink](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term1/Timeline)
+ Source code for timeline [here](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term1/Timeline)
  
  ## First Semester Processing Calculator
  ### Completed November 2018
@@ -18,7 +18,7 @@ Certifications:
  
  ![Calculator Image](https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/images/Calculator.png) ![Calculator Planning](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/_Calculator%20Plan.png) 
  
-Source code for calculator: [CalculatorLink](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term2/Calculator/Calculator)
+Source code for calculator [here](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term2/Calculator/Calculator)
 
  ## First Semester Space Shooter Game
  ### Completed December 2018
@@ -29,7 +29,7 @@ Source code for calculator: [CalculatorLink](https://github.com/Bamboo72/2019-Pr
 
 ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Asteroid%20Class%20Diagram.png) ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Spaceship%20Game.png)
 
- Source code for space shooter game: [SpaceGameLink](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term2/SpaceGameFinalTurnInVersion)
+ Source code for space shooter game [here](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term2/SpaceGameFinalTurnInVersion)
 
 ## Second Semester Number Guessing Game
 ### Completed March 2019
@@ -37,17 +37,18 @@ Source code for calculator: [CalculatorLink](https://github.com/Bamboo72/2019-Pr
  
   ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/GuessingGame.png)
  
- Source code for the number guessing game: [NumberGuessLink](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term3and4/GuessingGame)
+ Source code for the number guessing game [here](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term3and4/GuessingGame)
  
  ## Second Semester Recorded Questions
  ### Completed April 2019
  This was a simple app to help us learn how to work with files. All it really does is take the input from the user and record it for ten different questions.
  
  ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Questions.png)
+ 
  ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/RecordedQuestions.png)
  
- Source code for the recorded questions: [QuestionsLink](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term3and4/RandomQuestions)
+ Source code for the recorded questions [here](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term3and4/RandomQuestions)
 
  ## Second Semester Group Project: Bank System
- ## Completed May 2019
+ ### Completed May 2019
   This was a group project including all the students learning C++ in our Programming 1 class. Together we decided to create a banking system or automated teller. I was assigned the job of the bank system with deposits, withdrawls, recording the process, and keeping track of the balance of each user.
