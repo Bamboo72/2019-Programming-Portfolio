@@ -8,6 +8,8 @@ Certifications:
 ------
  
  ## First Semester Timeline
+ ### Completed October 2018
+ This was both a research project and a challenge to create an interesting display to communicate information on some of the most notable early computers in history. In my project, additional information will be brought up when you hover over the text for one of the computers.
  ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Timeline.png)
  
  Source code for timeline [here](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term1/Timeline)
@@ -52,3 +54,6 @@ Source code for calculator [here](https://github.com/Bamboo72/2019-Programming-P
  ## Second Semester Group Project: Bank System
  ### Completed May 2019
   This was a group project including all the students learning C++ in our Programming 1 class. Together we decided to create a banking system or automated teller. I was assigned the job of the bank system with deposits, withdrawls, recording the process, and keeping track of the balance of each user.
+  
+  Source code for the project:
+  Source code for the bank system:
