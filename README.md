@@ -10,6 +10,7 @@ Certifications:
  ## First Semester Timeline
  ### Completed October 2018
  This was both a research project and a challenge to create an interesting display to communicate information on some of the most notable early computers in history. In my project, additional information will be brought up when you hover over the text for one of the computers.
+ 
  ![](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Timeline.png)
  
  Source code for timeline [here](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term1/Timeline)
@@ -18,7 +19,7 @@ Certifications:
  ### Completed November 2018
  An Legend of Zelda themed object orientated calculator with features including standard opperations as well as squares, square roots, and a random number button (1-100). The button at the bottom links to GameChops' Zelda and Chill video.
  
- ![Calculator Image](https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/images/Calculator.png) ![Calculator Image](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/Calculator.jpg) ![Calculator Planning](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/_Calculator%20Plan.png) 
+ ![Calculator Image](https://github.com/Bamboo72/2019ProgrammingPortfolio/blob/master/images/Calculator.png) ![Calculator Planning](https://github.com/Bamboo72/2019-Programming-Portfolio/blob/master/images/_Calculator%20Plan.png) 
  
 Source code for calculator [here](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term2/Calculator/Calculator)
 
