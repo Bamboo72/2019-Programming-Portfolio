@@ -18,9 +18,9 @@ Certifications:
  
  Source code for timeline [here](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/Term1/Timeline)
   
- ## First Semester Processing Calculator
+## First Semester Processing Calculator
   
- ### Completed November 2018
+### Completed November 2018
  
  
  An Legend of Zelda themed object orientated calculator with features including standard opperations as well as squares, square roots, and a random number button (1-100). The button at the bottom links to GameChops' Zelda and Chill video.
@@ -71,5 +71,6 @@ Source code for calculator [here](https://github.com/Bamboo72/2019-Programming-P
  
   This was a group project including all the students learning C++ in our Programming 1 class. Together we decided to create a banking system or automated teller. I was assigned the job of the bank system with deposits, withdrawls, recording the process, and keeping track of the balance of each user.
   
-  Source code for the project [here]()
-  Source code for the bank system [here]()
+  Source code for the final project [here](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/SkylineGroupRepository/AutomatedTeller/FinalProduct)
+  
+  Source code for the bank system I made [here](https://github.com/Bamboo72/2019-Programming-Portfolio/tree/master/SkylineGroupRepository/AutomatedTeller/BankJacobS)
