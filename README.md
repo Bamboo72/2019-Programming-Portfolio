@@ -1,6 +1,7 @@
 # Welcome to Jacob Schwartz's Programming Portfolio
 
 Email: jaschwartz27@gmail.com
+
 Certifications: 
 * Utah State Certified in C++
 * Utah State Certified in Java
