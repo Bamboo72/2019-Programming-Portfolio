@@ -2,7 +2,7 @@
 
 Email: jaschwartz27@gmail.com
 
-Link to 2021 Programming Portfolio! : https://bamboo72.github.io/2021-Programming-Portfolio/
+Link to 2021 Programming Portfolio: (here)[https://bamboo72.github.io/2021-Programming-Portfolio/]
 
 Certifications: 
 * Utah State Certified in C++
